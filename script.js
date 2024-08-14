@@ -36,7 +36,7 @@ boxes.forEach((box) => {
 });
 
 const showWinner = (winner) => {
-    msg.innerText = `Congratulations, the winner is ${winner}`;
+    msg.innerText = `Congratulations, The Winner is ${winner}`;
     msgcontainer.classList.remove("hide");
 }
 
