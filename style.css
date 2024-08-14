@@ -15,6 +15,7 @@ body{
     align-items: center;
 }
 
+
 .game{
     height:60vmin;
     width:60vmin;
@@ -33,6 +34,15 @@ body{
     color: #b0413e;
     cursor: pointer;
     background-color: #ffffc7;
+}
+
+.heading{
+    color: #ffff;
+    margin-top: 30px;
+}
+.heading h1{
+    font-size: 42px;
+    font-weight: bold;
 }
 
 #reset-btn{
